@@ -1,1 +1,1 @@
-# 小米推送 PHP Server SDK
+# 小米推送 PHP Server SDK for Laravel Composer 安装版
